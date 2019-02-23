@@ -13,9 +13,13 @@ class Posts extends Migration
      */
     public function up()
     {
-        //
+     Schema::create('posts',function(Blueprint $table){
+          $table->increments('id');
+          $table->string('post_title')->nullable();
+          $table->string('content')->nullable();
+          $table->timestamps();
+     });
     }
-
     /**
      * Reverse the migrations.
      *
