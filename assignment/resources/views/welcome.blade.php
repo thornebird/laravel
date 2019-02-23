@@ -83,12 +83,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-<<<<<<< HEAD
-                    <a href="https://laracasts.com">Laracastsaaa this is laravel 5 </a>
-=======
-                    <a href="https://laracasts.com">Laracast feturess welcoe to lareavel 5</a>
->>>>>>> feature
+                    
                     <a href="https://laravel-news.com">News</a>
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
